@@ -1,0 +1,1 @@
+To Implement these Stored Procedures, I watched some youtube vedios and other outside sources. Very insteresting topic!
